@@ -9,13 +9,20 @@ Deshalb entschieden wir uns etwas eigenes zu starten.
 Was uns von den anderen unterscheidet ist das wir komplett ohne budget arbeiten und das es ein kleins Hobby ist.
 
 
-### Konzeptausarbeitung
+## Konzeptausarbeitung
 
 
 http://imgur.com/a/jcDcj
 
 
-#### Erstellung
+## Erstellung
 
 Erstellt wurde das Projekt mit Hilfe von Node.js und Bootstrap.
 Unsere Website läuft über Wordpress. Wird demnächst gestartet.
+
+
+## Beispiel Darstellung
+
+http://imgur.com/a/CzKc7
+
+
