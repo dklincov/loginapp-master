@@ -13,3 +13,9 @@ Was uns von den anderen unterscheidet ist das wir komplett ohne budget arbeiten 
 
 
 http://imgur.com/a/jcDcj
+
+
+#### Erstellung
+
+Erstellt wurde das Projekt mit Hilfe von Node.js und Bootstrap.
+Unsere Website läuft über Wordpress. Wird demnächst gestartet.
