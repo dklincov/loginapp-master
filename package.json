@@ -1,12 +1,12 @@
 {
-  "name": "loginapp",
-  "version": "1.0.0",
+  "name": "loginapp-master",
+  "version": "0.9.0",
   "description": "Simple authentication system",
   "main": "app.js",
   "scripts": {
     "start": "node app.js"
   },
-  "author": "Brad Traversy",
+  "author": "Nico Viedt  & Dennis Klincov",
   "license": "ISC",
   "dependencies": {
     "bcryptjs": "*",
